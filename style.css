@@ -19,3 +19,13 @@ hr {
     background: #333;
     background-image: linear-gradient(to right, #ccc, #333, #ccc);
 }
+
+h1{
+    font-size: 72px;
+}
+
+h1, h2{
+    font-family: "Oswald", "Helvetica Neue";
+    text-align: center;
+    color: #2884c3;
+}
