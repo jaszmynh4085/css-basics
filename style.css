@@ -44,3 +44,22 @@ code{
 .snippet{
     background: lightgray;
 }
+
+#font-practice{
+    font-style: italic;
+}
+
+a:link {
+    color: green;
+    text-decoration: none;
+}
+a:visited {
+    color: black;
+}
+a:hover {
+    color: red;
+    text-decoration: underline;
+}
+a:active {
+    color: blue;
+}
